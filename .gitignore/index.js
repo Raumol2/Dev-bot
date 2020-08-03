@@ -103,4 +103,4 @@ client.on('message', message => {
  
 
 
-client.login('NzMwNDA1OTU5ODIxOTUwOTc3.XwXBjw.3KdsfOWNVe2NZ_CYq0-bLP6Sduk')
+client.login('')
